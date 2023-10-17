@@ -1,2 +1,1 @@
-# elasticsearch-journey
-My ES jorney from zero 
+My Elasticsearch journey from Zero
